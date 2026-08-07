@@ -24,6 +24,8 @@ Convolutional Neural Network (CNN)
 Training Accuracy: ~79.5%
 Validation Accuracy: ~83.2%
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
-[👉 Open Cat-Dog CNN App](https://cat-dog-cnn-dl.streamlit.app/)
+The project is deployed using Streamlit and can be accessed online:
+
+👉 [**Live Demo – Student Performance Prediction**](https://cat-dog-cnn-dl.streamlit.app/)
